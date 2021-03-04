@@ -1,0 +1,333 @@
+.bg-gradient-primary {
+  background-color: #510F56;
+  background-image: linear-gradient(180deg, #510F56 10%, #86448B 100%);
+  background-size: cover;
+}
+
+.btn-primary {
+  color: #fff !important;
+  background-color: #A36DA7 !important;
+  border-color: #A36DA7 !important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #86448B;
+  border-color: #86448B;
+}
+
+.text-primary {
+  color: #A36DA7 !important;
+}
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::after {
+  background-color: #510F56;
+  border-radius: 0.35rem;
+  border-top-left-radius: 0.35rem;
+  border-top-right-radius: 0.35rem;
+  border-bottom-right-radius: 0.35rem;
+  border-bottom-left-radius: 0.35rem;
+}
+
+a.small {
+  color: #510F56;
+}
+
+#mapid {
+  height: 500px;
+}
+
+.no_padding {
+  padding: 0;
+}
+
+#desc {
+  height: 200px;
+  margin-bottom: 25px;
+  border-radius: 25px;
+}
+
+.page-link {
+  color: black;
+}
+
+.page-link:hover {
+  color: #A36DA7;
+}
+
+.previous:hover {
+  color: #A36DA7;
+}
+
+.page-item.active .page-link {
+  color: #fff;
+  background-color: #A36DA7;
+  border-color: #A36DA7;
+}
+
+.form-select {
+  border-radius: 25px;
+  height: 50px;
+}
+
+#seleccion {
+  padding-bottom: 15px;
+}
+
+.error:before {
+  text-shadow: 1px 0 #A36DA7 !important;
+  color: #FFFFFF !important;
+  background: #A36DA7 !important;
+}
+
+.error:after {
+  text-shadow: 1px 0 #A36DA7 !important;
+  color: #FFFFFF !important;
+  background: #A36DA7 !important;
+}
+
+#loginbg {
+  background-image: url("/img/login.jpg") !important;
+  background-size: cover;
+}
+#reset{
+  margin-top: 70px;
+}
+#bgregister {
+  background-image: url("https://c1.wallpaperflare.com/preview/268/493/288/vitoria-gasteiz-basque-country-euskadi-alava-architecture.jpg") !important;
+  background-size: cover;
+}
+#bgemail{
+  background-image: url("/img/email.jpg") !important;
+  background-size: cover;
+}
+.ck-rounded-corners .ck.ck-toolbar, .ck.ck-toolbar.ck-rounded-corners {
+  border-radius: 10px;
+}
+
+form.user .btn-user {
+  font-size: 0.8rem;
+  border-radius: 10rem;
+  margin-top: 20px;
+  padding: 0.75rem 1rem;
+}
+
+[data-theme=dark] body {
+  color: whitesmoke;
+}
+
+[data-theme=dark] * {
+  color: whitesmoke;
+}
+
+[data-theme=dark] .text-gray-600 {
+  color: whitesmoke !important;
+}
+
+[data-theme=dark] .bg-white {
+  background-color: black !important;
+}
+
+[data-theme=dark] .sidebar .nav-item .collapse .collapse-inner .collapse-item, [data-theme=dark] .sidebar .nav-item .collapsing .collapse-inner .collapse-item {
+  color: whitesmoke !important;
+}
+
+[data-theme=dark] .btn-primary {
+  color: #fff;
+  background-color: #86448B !important;
+  border-color: #86448B !important;
+}
+
+[data-theme=dark] .btn-primary:hover {
+  color: #fff;
+  background-color: #A36DA7 !important;
+  border-color: #A36DA7 !important;
+}
+
+[data-theme=dark] .fa-search {
+  color: black;
+}
+
+[data-theme=dark] #content {
+  background-color: #212121;
+}
+
+[data-theme=dark] .bg-gradient-primary {
+  background-color: #36013A;
+  background-image: linear-gradient(180deg, #36013A 10%, #510F56 100%);
+  background-size: cover;
+}
+
+[data-theme=dark] .card {
+  background-color: #2c2b2b !important;
+}
+
+[data-theme=dark] .text-gray-800 {
+  color: whitesmoke !important;
+}
+
+[data-theme=dark] .bg-light {
+  background-color: #222222 !important;
+}
+
+[data-theme=dark] ::placeholder {
+  color: #cbcbcb;
+}
+
+[data-theme=dark] .card-header {
+  background: #222222 !important;
+}
+
+[data-theme=dark] .card {
+  border: 1px solid #9d9ea3 !important;
+}
+
+[data-theme=dark] .dropdown-menu {
+  background-color: #222222 !important;
+}
+
+[data-theme=dark] .dropdown-item:hover {
+  background-color: #6d6d6d !important;
+  color: whitesmoke !important;
+}
+
+[data-theme=dark] .collapse-item:hover {
+  background-color: #222222 !important;
+}
+
+[data-theme=dark] .custom-control-input:checked ~ .custom-control-label::before {
+  color: black;
+  border-color: #510F56;
+  background-color: #86448B;
+}
+
+[data-theme=dark] .verde:before {
+  color: #55e705;
+}
+
+[data-theme=dark] .rojo:before {
+  color: #c81c1c;
+}
+
+[data-theme=dark] .naranja:before {
+  color: #ffb800;
+}
+
+[data-theme=dark] .gris:before {
+  color: #696969;
+}
+
+[data-theme=dark] .leaflet-popup-content-wrapper {
+  background-color: #222222;
+}
+
+[data-theme=dark] .leaflet-popup-tip {
+  background-color: #222222;
+}
+
+[data-theme=dark] .ap-dataset-places {
+  background-color: black !important;
+}
+
+[data-theme=dark] .ap-cursor {
+  background-color: #510F56;
+}
+
+[data-theme=dark] .user input, [data-theme=dark] textarea {
+  background-color: #373737;
+}
+
+[data-theme=dark] #desc:focus {
+  background-color: #373737;
+}
+
+[data-theme=dark] select {
+  background-color: #373737;
+}
+
+[data-theme=dark] select:focus {
+  background-color: #373737;
+  color: whitesmoke;
+}
+
+[data-theme=dark] option {
+  background-color: #373737;
+}
+
+[data-theme=dark] option:hover {
+  background-color: #4f4f4f;
+}
+
+[data-theme=dark] input {
+  background-color: #373737;
+}
+
+[data-theme=dark] input:focus {
+  background-color: #373737;
+  color: whitesmoke;
+}
+
+[data-theme=dark] .paginate_button a {
+  color: whitesmoke;
+  background-color: #373737;
+}
+
+[data-theme=dark] .page-item.active .page-link {
+  color: #fff;
+  background-color: #510F56;
+  border-color: #510F56;
+}
+
+[data-theme=dark] .page-link {
+  color: whitesmoke;
+  background-color: #373737;
+}
+
+[data-theme=dark] .previous a {
+  color: whitesmoke !important;
+  background-color: #373737 !important;
+}
+
+[data-theme=dark] .next a {
+  color: whitesmoke !important;
+  background-color: #373737 !important;
+}
+
+[data-theme=dark] .page-link:hover {
+  background-color: #86448B;
+}
+
+[data-theme=dark] .previous {
+  background-color: #86448B;
+}
+
+[data-theme=dark] .error:before {
+  text-shadow: 1px 0 #6C2571 !important;
+  color: #FFFFFF !important;
+  background: #510F56 !important;
+}
+
+[data-theme=dark] .error:after {
+  text-shadow: 1px 0 #6C2571 !important;
+  color: #FFFFFF !important;
+  background: #510F56 !important;
+}
+
+[data-theme=dark] .modal-content {
+  background-color: #373737;
+}
+
+[data-theme=dark] #editor {
+  border: 1px white solid;
+  border-radius: 10px;
+}
+
+[data-theme=dark] .ck-rounded-corners .ck.ck-toolbar, [data-theme=dark] .ck.ck-toolbar.ck-rounded-corners {
+  background-color: #e3e3e3;
+  color: whitesmoke !important;
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=personalizado.css.map */
+
+/*# sourceMappingURL=personalizado.css.map */

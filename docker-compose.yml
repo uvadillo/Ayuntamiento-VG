@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  mysql:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: proyecto3db
+    environment:
+      MYSQL_DATABASE: Permisos_Obra
+      MYSQL_USER: jefe
+      MYSQL_PASSWORD: Jm12345
+      MYSQL_ROOT_PASSWORD: Jm12345
+    ports:
+      - "3306:3306"
