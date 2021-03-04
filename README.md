@@ -57,4 +57,5 @@ La interfaz gráfica utilizada:
 + [PhpStorm](https://www.jetbrains.com/es-es/phpstorm/) 
 
 Organizacion:
-* [Slack](https://slack.com/intl/es-es/) 
+* [Slack](https://slack.com/intl/es-es/)
+* [Trello](https://trello.com/es)
