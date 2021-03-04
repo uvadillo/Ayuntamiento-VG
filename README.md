@@ -64,5 +64,5 @@ Servidor web:
 * [Heroku app](https://www.heroku.com/)
 
 Base de datos:
-* [Google cloud] (https://cloud.google.com/products/databases)
-* [ClearDB MySQL / Heroku] (https://www.cleardb.com/)
+* [Google cloud](https://cloud.google.com/products/databases)
+* [ClearDB MySQL / Heroku](https://www.cleardb.com/)
