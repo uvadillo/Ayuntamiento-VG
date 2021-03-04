@@ -14,13 +14,15 @@ indicando los siguientes datos:
 postal donde reside(calle, número, piso, mano, código postal, población, municipio,
 provincia), email y teléfono de contacto.
 - Datos de la obra:
--- Tipo de edificio: piso, casa, local, garaje, trastero, edificio
--- Tipo de obra: nueva construcción, reforma
--- Lugar (calle, número, piso, mano, código postal, población, municipio,
+    - Tipo de edificio: piso, casa, local, garaje, trastero, edificio
+    - Tipo de obra: nueva construcción, reforma
+    - Lugar (calle, número, piso, mano, código postal, población, municipio,
 provincia)
--- Fecha de inicio y fin
--- Descripción de la obra
--- Plano en formato JPG, PNG o PDF
+    - Fecha de inicio y fin
+    - Descripción de la obra
+    - Plano en formato JPG, PNG o PDF
+ 
+ 
 Cualquier usuario que quiera hacer la solicitud tendrá que darse de alta en la aplicación con
 los datos de solicitante mencionados anteriormente. Una vez el usuario se ha dado de alta,
 deberá crear la solicitud, la cuál se registrará y quedará pendiente de resolución. También
