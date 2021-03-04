@@ -52,6 +52,10 @@ técnico pueda tener en cuenta la localización de cada obra
 
 
 ## Herramientas 🛠️
+Framework:
+* [Laravel](https://laravel.com/)
+    * [Blade](https://laravel.com/docs/8.x/blade)
+
 La interfaz gráfica utilizada:
 * [Visual Studio Code](https://code.visualstudio.com/) 
 + [PhpStorm](https://www.jetbrains.com/es-es/phpstorm/) 
@@ -66,3 +70,16 @@ Servidor web:
 Base de datos:
 * [Google cloud](https://cloud.google.com/products/databases)
 * [ClearDB MySQL / Heroku](https://www.cleardb.com/)
+
+Plantilla:
+* [Plantilla bootstrap](https://startbootstrap.com/theme/sb-admin-2)
+Librerias:
+* [JQuery](https://jquery.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [ChartJS](https://www.chartjs.org/)
+* [Modo Oscuro](https://coliff.github.io/dark-mode-switch/)
+* [Lugares](https://community.algolia.com/places/)
+* [Mapa](https://leafletjs.com/)
+
+Lenguaje de extension:
+* [Sass](https://sass-lang.com/)
