@@ -73,7 +73,9 @@ Base de datos:
 
 Plantilla:
 * [Plantilla bootstrap](https://startbootstrap.com/theme/sb-admin-2)
+
 Librerias:
+
 * [JQuery](https://jquery.com/)
 * [Bootstrap](https://getbootstrap.com/)
 * [ChartJS](https://www.chartjs.org/)
