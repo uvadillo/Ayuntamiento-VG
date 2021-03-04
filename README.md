@@ -59,3 +59,10 @@ La interfaz gráfica utilizada:
 Organizacion:
 * [Slack](https://slack.com/intl/es-es/)
 * [Trello](https://trello.com/es)
+
+Servidor web:
+* [Heroku app](https://www.heroku.com/)
+
+Base de datos:
+* [Google cloud] (https://cloud.google.com/products/databases)
+* [ClearDB MySQL / Heroku] (https://www.cleardb.com/)
